@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashishGupta
-- 👀 I’m interested in Competitive Programming 
-- 🌱 I’m currently learning DSA in java
+- 👀 I’m interested in Competitive Programming and web development
+- 🌱 I’m currently learning DSA in c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
